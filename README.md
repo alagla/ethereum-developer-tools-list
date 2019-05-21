@@ -268,7 +268,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 
 ### Security Tools
 * [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
-* [Mythril Classic](https://github.com/ConsenSys/mythril-classic) - Open-source EVM bytecode security analysis tool
+* [Mythril](https://github.com/ConsenSys/mythril) - Open-source EVM bytecode security analysis tool
 * [Oyente](https://github.com/melonproject/oyente) - Alternative static smart contract security analysis
 * [Securify](https://securify.chainsecurity.com/) - Security scanner for Ethereum smart contracts
 * [SmartCheck](https://tool.smartdec.net/) - Static smart contract security analyzer
